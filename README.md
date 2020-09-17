@@ -8,9 +8,10 @@ I'm a Full Stack Developer Passionate about the web technologies. I have experie
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## GitHub Stats
+### GitHub Stats
 
 ![eduardomingoranca's github](https://github-readme-stats.vercel.app/api?username=eduardomingoranca&show_icons=true&hide_border=true)
 
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomingoranca)](https://github.com/eduardomingoranca/github-readme-stats)
 
