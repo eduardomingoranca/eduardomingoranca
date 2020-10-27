@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, I'm Eduardo Mingorança <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h2>
+<h2 align="center"> Hello, I'm Eduardo Mingorança :wave:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-eduardomingoranca-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomingoranca/)](https://www.linkedin.com/in/eduardomingoranca/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardomingoranca@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardomingoranca@gmail.com)](mailto:eduardomingoranca@gmail.com)
